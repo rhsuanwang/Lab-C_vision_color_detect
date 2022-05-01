@@ -1,0 +1,2 @@
+We comment the #pragma HLS DATAFLOW in xf_colordetect_accel.cpp.
+We use the figure colordetect_128x128.jpeg as our input.
